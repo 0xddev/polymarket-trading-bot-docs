@@ -32,6 +32,17 @@ The bot trades **5-minute prediction markets** (e.g. “Will BTC be above $X in 
 
 You can tap these buttons or type the same text. You can also use **commands** (see below).
 
+### Screenshots
+
+<table>
+<tr>
+<td align="center"><img src="assets/wallet-screen.png" alt="Wallet" width="280"/><br/><strong>👛 Wallet</strong></td>
+<td align="center"><img src="assets/paper-trading-screen.png" alt="Paper Trading" width="280"/><br/><strong>📈 Paper Trading</strong></td>
+<td align="center"><img src="assets/settings-screen.png" alt="Settings" width="280"/><br/><strong>⚙️ Settings</strong></td>
+<td align="center"><img src="assets/referrals-screen.png" alt="Referrals" width="280"/><br/><strong>🎁 Referrals</strong></td>
+</tr>
+</table>
+
 ---
 
 ## Paper Trading
@@ -60,6 +71,7 @@ Before starting, the bot may check/approve tokens; then it streams logs like in 
 
 Tap **👛 Wallet** or send **`/wallet`**.
 
+
 You’ll see:
 
 - **Deposit addresses** — Where to send funds so they arrive in your Polymarket wallet:
@@ -86,7 +98,7 @@ You’ll see:
 
 Tap **🎁 Referrals** or send **`/referrals`**.
 
-You’ll see your **referral code** and **invite link**. Buttons may include:
+You’ll see your **referral code** and **invite link** (see screenshot in grid above). Buttons may include:
 
 - **💸 Withdraw (Min $5)** — Withdraw referral earnings (if the operator wired this to a backend).
 - **📋 Copy Link** — Copy your referral link.
