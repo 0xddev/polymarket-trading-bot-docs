@@ -39,7 +39,7 @@ You can tap these buttons or type the same text. You can also use **commands** (
 <td align="center"><img src="assets/wallet-screen.png" alt="Wallet" width="280"/><br/><strong>👛 Wallet</strong></td>
 <td align="center"><img src="assets/paper-trading-screen.png" alt="Paper Trading" width="280"/><br/><strong>📈 Paper Trading</strong></td>
 <td align="center"><img src="assets/settings-screen.png" alt="Settings" width="280"/><br/><strong>⚙️ Settings</strong></td>
-<td align="center"><img src="assets/referrals-screen.png" alt="Referrals" width="280"/><br/><strong>🎁 Referrals</strong></td>
+<td align="center"><img src="assets/referrals-screen - Copy.png" alt="Referrals" width="280"/><br/><strong>🎁 Referrals</strong></td>
 </tr>
 </table>
 
